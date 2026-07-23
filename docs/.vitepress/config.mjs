@@ -202,6 +202,7 @@ export default withMermaid(defineConfig({
                     { text: 'trpc-agent-go', link: '/guide/usecases/trpc-agent-go' }
                   ]
                 },
+                { text: 'Cube 100 Program', link: '/guide/cube100' },
                 { text: 'Integrations', link: '/guide/integrations/' }
               ]
             },
@@ -350,6 +351,7 @@ export default withMermaid(defineConfig({
                     { text: 'trpc-agent-go', link: '/zh/guide/usecases/trpc-agent-go' }
                   ]
                 },
+                { text: 'Cube 100 计划', link: '/zh/guide/cube100' },
                 { text: '生态集成', link: '/zh/guide/integrations/' }
               ]
             },
